@@ -1,6 +1,6 @@
 package com.hascode.tutorial.example3;
 
-public class Example3 {
+public class StrictBuilderExample {
 
 	public static void main(final String[] args) {
 		Box box1 = ImmutableBox.builder().width(12).height(20).build(); // works

@@ -1,6 +1,6 @@
 package com.hascode.tutorial.example1;
 
-public class Example1 {
+public class BuilderForInterfaceExample {
 
 	public static void main(final String[] args) {
 		Book book1 = ImmutableBook.builder().title("One first book").excerpt("Lorem ipsum dolor sit.").addTags("foo", "bar", "baz").price(12.5F).build();

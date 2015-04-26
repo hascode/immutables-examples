@@ -2,7 +2,7 @@ package com.hascode.tutorial.example4;
 
 import com.hascode.tutorial.example4.Link.Protocol;
 
-public class Example4 {
+public class ConstructorMethodExample {
 
 	public static void main(final String[] args) {
 		Link link1 = ImmutableLink.of("www.hascode.com", Protocol.HTTP);
