@@ -10,4 +10,3 @@ Please feel free to have a look at [my blog] for more details.
 
    [my blog]:http://www.hascode.com/
    [Immutables library]:http://immutables.github.io/
-~                                                               
